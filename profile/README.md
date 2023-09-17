@@ -10,3 +10,9 @@
   - ...
 - setup a community equivalent to [Jazzband](https://jazzband.co/) to collaboratively maintain DDD related Python packages
 - provide a way for development effort sponsoring and contributor payout (with [opencollective.com](https://opencollective.com/) and [polar.sh](https://polar.sh/))
+
+## Community
+
+Join the community on Discord:
+
+[![](https://dcbadge.vercel.app/api/server/zPXwjjgh)](https://discord.gg/zPXwjjgh)

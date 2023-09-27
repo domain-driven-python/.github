@@ -15,4 +15,4 @@
 
 Join the community on Discord:
 
-[![](https://dcbadge.vercel.app/api/server/zPXwjjgh)](https://discord.gg/zPXwjjgh)
+[![](https://dcbadge.vercel.app/api/server/GsKFqaR5yB)](https://discord.gg/GsKFqaR5yB)
